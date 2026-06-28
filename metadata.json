@@ -1,0 +1,8 @@
+{
+  "name": "SPCET Student Academic Record Book",
+  "description": "A high-fidelity digital academic record book system for St. Peter's College of Engineering and Technology with strict RBAC and realistic UI.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
